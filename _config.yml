@@ -17,7 +17,7 @@ owner: Suhas and Kshiti # or company name
 first_published: 2022-2023 # if migrating another site, the year of your first publish
 email: vijayakumar.suhas@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kshiti-weds-suhas.site" # the base hostname & protocol for your site
+url: "http://kshiti-weds-suhas.site/" # the base hostname & protocol for your site
 social:
   #github: https://github.com/<username>
   #email: /contact/
